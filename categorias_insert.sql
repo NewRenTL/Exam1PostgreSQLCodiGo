@@ -1,0 +1,10 @@
+insert into categorias (nombre) values ('Laborer');
+insert into categorias (nombre) values ('Boilermaker');
+insert into categorias (nombre) values ('HVAC');
+insert into categorias (nombre) values ('Waterproofer');
+insert into categorias (nombre) values ('Landscaper');
+insert into categorias (nombre) values ('Millwright');
+insert into categorias (nombre) values ('Carpenter');
+insert into categorias (nombre) values ('Boilermaker');
+insert into categorias (nombre) values ('HVAC');
+insert into categorias (nombre) values ('Millwright');

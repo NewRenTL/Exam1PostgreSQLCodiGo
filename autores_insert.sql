@@ -1,0 +1,10 @@
+insert into autores (nombre) values ('Drain');
+insert into autores (nombre) values ('Breckin');
+insert into autores (nombre) values ('Rounding');
+insert into autores (nombre) values ('Kleiser');
+insert into autores (nombre) values ('Prickett');
+insert into autores (nombre) values ('Dorber');
+insert into autores (nombre) values ('Garmons');
+insert into autores (nombre) values ('Hulles');
+insert into autores (nombre) values ('Attwoul');
+insert into autores (nombre) values ('Kunat');
