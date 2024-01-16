@@ -11,11 +11,3 @@ insert into prestamos (fecha_prestamo, fecha_devolucion_esperada, isbn, lector_i
 
 select * from prestamos;
 
-
-/*
-delete from prestamos where prestamo_id > 1 & prestamo_id < 12;
-SELECT pg_get_serial_sequence('prestamos', 'prestamo_id');
-SELECT setval('prestamos_prestamo_id_seq', 1, false);
-*/
-
---drop table prestamos;

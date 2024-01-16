@@ -1,6 +1,6 @@
-select * from libros;
-select * from categorias;
-select * from libros_categorias;
+--select * from libros;
+--select * from categorias;
+---select * from libros_categorias;
 
 insert into libros_categorias (isbn, categoria_id) values ('60505-2869', 5);
 insert into libros_categorias (isbn, categoria_id) values ('61442-201', 3);
